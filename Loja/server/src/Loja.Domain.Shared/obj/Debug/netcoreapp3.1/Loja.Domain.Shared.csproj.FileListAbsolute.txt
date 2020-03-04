@@ -1,0 +1,8 @@
+C:\Projetos\C#\Core\Loja\Loja\server\src\Loja.Domain.Shared\bin\Debug\netcoreapp3.1\Loja.Domain.Shared.deps.json
+C:\Projetos\C#\Core\Loja\Loja\server\src\Loja.Domain.Shared\bin\Debug\netcoreapp3.1\Loja.Domain.Shared.dll
+C:\Projetos\C#\Core\Loja\Loja\server\src\Loja.Domain.Shared\obj\Debug\netcoreapp3.1\Loja.Domain.Shared.csprojAssemblyReference.cache
+C:\Projetos\C#\Core\Loja\Loja\server\src\Loja.Domain.Shared\obj\Debug\netcoreapp3.1\Loja.Domain.Shared.AssemblyInfoInputs.cache
+C:\Projetos\C#\Core\Loja\Loja\server\src\Loja.Domain.Shared\obj\Debug\netcoreapp3.1\Loja.Domain.Shared.AssemblyInfo.cs
+C:\Projetos\C#\Core\Loja\Loja\server\src\Loja.Domain.Shared\bin\Debug\netcoreapp3.1\Loja.Domain.Shared.pdb
+C:\Projetos\C#\Core\Loja\Loja\server\src\Loja.Domain.Shared\obj\Debug\netcoreapp3.1\Loja.Domain.Shared.dll
+C:\Projetos\C#\Core\Loja\Loja\server\src\Loja.Domain.Shared\obj\Debug\netcoreapp3.1\Loja.Domain.Shared.pdb

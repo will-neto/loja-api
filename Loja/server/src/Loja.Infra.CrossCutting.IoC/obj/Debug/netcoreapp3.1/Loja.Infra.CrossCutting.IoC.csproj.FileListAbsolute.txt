@@ -1,0 +1,15 @@
+C:\Projetos\C#\Core\Loja\Loja\server\src\Loja.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\Loja.Infra.CrossCutting.IoC.deps.json
+C:\Projetos\C#\Core\Loja\Loja\server\src\Loja.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\Loja.Infra.CrossCutting.IoC.dll
+C:\Projetos\C#\Core\Loja\Loja\server\src\Loja.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\Loja.Infra.CrossCutting.IoC.csprojAssemblyReference.cache
+C:\Projetos\C#\Core\Loja\Loja\server\src\Loja.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\Loja.Infra.CrossCutting.IoC.AssemblyInfoInputs.cache
+C:\Projetos\C#\Core\Loja\Loja\server\src\Loja.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\Loja.Infra.CrossCutting.IoC.AssemblyInfo.cs
+C:\Projetos\C#\Core\Loja\Loja\server\src\Loja.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\Loja.Infra.CrossCutting.IoC.pdb
+C:\Projetos\C#\Core\Loja\Loja\server\src\Loja.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\Loja.Domain.dll
+C:\Projetos\C#\Core\Loja\Loja\server\src\Loja.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\Loja.Domain.Shared.dll
+C:\Projetos\C#\Core\Loja\Loja\server\src\Loja.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\Loja.Infra.Data.dll
+C:\Projetos\C#\Core\Loja\Loja\server\src\Loja.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\Loja.Domain.pdb
+C:\Projetos\C#\Core\Loja\Loja\server\src\Loja.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\Loja.Infra.Data.pdb
+C:\Projetos\C#\Core\Loja\Loja\server\src\Loja.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\Loja.Domain.Shared.pdb
+C:\Projetos\C#\Core\Loja\Loja\server\src\Loja.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\Loja.Infra.CrossCutting.IoC.csproj.CopyComplete
+C:\Projetos\C#\Core\Loja\Loja\server\src\Loja.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\Loja.Infra.CrossCutting.IoC.dll
+C:\Projetos\C#\Core\Loja\Loja\server\src\Loja.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\Loja.Infra.CrossCutting.IoC.pdb

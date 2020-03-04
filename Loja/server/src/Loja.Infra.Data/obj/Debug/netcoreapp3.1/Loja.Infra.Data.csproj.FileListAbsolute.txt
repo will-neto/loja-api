@@ -1,0 +1,15 @@
+C:\Projetos\C#\Core\Loja\Loja\server\src\Loja.Infra.Data\bin\Debug\netcoreapp3.1\Loja.Infra.Data.deps.json
+C:\Projetos\C#\Core\Loja\Loja\server\src\Loja.Infra.Data\bin\Debug\netcoreapp3.1\Loja.Infra.Data.dll
+C:\Projetos\C#\Core\Loja\Loja\server\src\Loja.Infra.Data\obj\Debug\netcoreapp3.1\Loja.Infra.Data.csprojAssemblyReference.cache
+C:\Projetos\C#\Core\Loja\Loja\server\src\Loja.Infra.Data\obj\Debug\netcoreapp3.1\Loja.Infra.Data.AssemblyInfoInputs.cache
+C:\Projetos\C#\Core\Loja\Loja\server\src\Loja.Infra.Data\obj\Debug\netcoreapp3.1\Loja.Infra.Data.AssemblyInfo.cs
+C:\Projetos\C#\Core\Loja\Loja\server\src\Loja.Infra.Data\bin\Debug\netcoreapp3.1\Loja.Infra.Data.pdb
+C:\Projetos\C#\Core\Loja\Loja\server\src\Loja.Infra.Data\bin\Debug\netcoreapp3.1\Loja.Domain.dll
+C:\Projetos\C#\Core\Loja\Loja\server\src\Loja.Infra.Data\bin\Debug\netcoreapp3.1\Loja.Domain.pdb
+C:\Projetos\C#\Core\Loja\Loja\server\src\Loja.Infra.Data\obj\Debug\netcoreapp3.1\Loja.Infra.Data.csproj.CopyComplete
+C:\Projetos\C#\Core\Loja\Loja\server\src\Loja.Infra.Data\obj\Debug\netcoreapp3.1\Loja.Infra.Data.dll
+C:\Projetos\C#\Core\Loja\Loja\server\src\Loja.Infra.Data\obj\Debug\netcoreapp3.1\Loja.Infra.Data.pdb
+C:\Projetos\C#\Core\Loja\Loja\server\src\Loja.Infra.Data\bin\Debug\netcoreapp3.1\Loja.Infra.Data.runtimeconfig.json
+C:\Projetos\C#\Core\Loja\Loja\server\src\Loja.Infra.Data\bin\Debug\netcoreapp3.1\Loja.Infra.Data.runtimeconfig.dev.json
+C:\Projetos\C#\Core\Loja\Loja\server\src\Loja.Infra.Data\bin\Debug\netcoreapp3.1\Loja.Domain.Shared.dll
+C:\Projetos\C#\Core\Loja\Loja\server\src\Loja.Infra.Data\bin\Debug\netcoreapp3.1\Loja.Domain.Shared.pdb

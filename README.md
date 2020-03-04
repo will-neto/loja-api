@@ -1,0 +1,1 @@
+## Loja em ASP.NET Core + Angular
