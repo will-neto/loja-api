@@ -29,12 +29,12 @@ namespace Loja.Api
         public void ConfigureServices(IServiceCollection services)
         {
 
-            //Opções customizadas
+            //Opï¿½ï¿½es customizadas
             services.AddOptions();
 
             services.AddMvc(options =>
             {
-                //Restrição XML
+                //Restriï¿½ï¿½o XML
                 options.OutputFormatters.Remove(new XmlDataContractSerializerOutputFormatter());
                 //options.Filters.Add(new ServiceFilterAttribute(typeof(GlobalActionLogger)));
 
@@ -61,6 +61,8 @@ namespace Loja.Api
             app.UseRouting();
 
             app.UseAuthorization();
+
+            app.UseCors(x => x.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod());
 
             app.UseEndpoints(endpoints =>
             {
